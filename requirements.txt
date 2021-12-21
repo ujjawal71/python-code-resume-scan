@@ -1,0 +1,11 @@
+requests
+urllib3
+pdf2image
+opencv
+pytesseract
+docs
+os
+shutil
+textblob
+fastapi
+python-poppler

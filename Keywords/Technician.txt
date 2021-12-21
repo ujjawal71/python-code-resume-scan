@@ -1,0 +1,7 @@
+fitter
+electrician
+electrical
+worker
+wiring
+technical support 
+operator
