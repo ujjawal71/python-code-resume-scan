@@ -1,7 +1,9 @@
 requests
 urllib3
 pdf2image
-pip3 install opencv_python
+opencv-contrib-python
+numpy
+pandas
 pytesseract
 python-docx
 os
