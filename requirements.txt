@@ -1,7 +1,6 @@
 requests
 urllib3
 pdf2image
-opencv-python-headless
 numpy
 pandas
 pytesseract
