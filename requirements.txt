@@ -3,7 +3,7 @@ urllib3
 pdf2image
 opencv-python
 pytesseract
-docs
+python-docx
 os
 shutil
 textblob
