@@ -1,5 +1,5 @@
 requests
-urllib
+urllib3
 pdf2image
 opencv
 pytesseract
@@ -8,4 +8,4 @@ os
 shutil
 textblob
 fastapi
-poppler
+python-poppler
