@@ -5,7 +5,7 @@ opencv-python
 pytesseract
 python-docx
 os
-shutil
+pytest-shutil
 textblob
 fastapi
 python-poppler
