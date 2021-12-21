@@ -1,6 +1,7 @@
 requests
 urllib3
 pdf2image
+wheel
 opencv-contrib-python
 opencv-python
 pytesseract
