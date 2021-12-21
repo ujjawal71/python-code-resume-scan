@@ -1,6 +1,7 @@
 requests
 urllib3
 pdf2image
+opencv-contrib-python
 opencv-python
 pytesseract
 python-docx
