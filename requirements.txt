@@ -1,7 +1,7 @@
 requests
 urllib3
 pdf2image
-opencv
+opencv-python
 pytesseract
 docs
 os
