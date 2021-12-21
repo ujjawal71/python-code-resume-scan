@@ -1,11 +1,11 @@
 requests
 urllib3
 pdf2image
-opencv
+numpy
+pandas
 pytesseract
-docs
+python-docx
 os
-shutil
+pytest-shutil
 textblob
 fastapi
-python-poppler
